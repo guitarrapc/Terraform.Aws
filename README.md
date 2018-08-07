@@ -24,6 +24,13 @@ Teamplates for AWS Terraform.
 
 - [x] CloudTrail
     - OneStop creation.
+- [x] Console Login Event
 - [ ] IAM
 - [ ] S3
 - [ ] Billing Alert
+
+## Flow
+
+### Console Login Event
+
+![](images/consolelogin_flow.png)
